@@ -1,0 +1,10 @@
+co.edu.unbosque.skillissueanalyzer
+co.edu.unbosque.skillissueanalyzer.configuration
+co.edu.unbosque.skillissueanalyzer.controller
+co.edu.unbosque.skillissueanalyzer.dto
+co.edu.unbosque.skillissueanalyzer.exception
+co.edu.unbosque.skillissueanalyzer.model
+co.edu.unbosque.skillissueanalyzer.repository
+co.edu.unbosque.skillissueanalyzer.security
+co.edu.unbosque.skillissueanalyzer.service
+co.edu.unbosque.skillissueanalyzer.util
